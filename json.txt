@@ -1,0 +1,15 @@
+Create user json:
+{
+    
+    "username": "admin",
+    "password":"admin"
+}
+Create blog Json:
+{
+    "name":"sample"
+    "title":"sample"
+    "email":"sample"
+    "number":"sample"
+    "content":"sample"
+    "link":"sample"
+}
