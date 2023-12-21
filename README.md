@@ -1,2 +1,2 @@
-# GO-NEX-GEN
+# GO-GIN_ENT
 go run main.go 
